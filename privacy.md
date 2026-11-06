@@ -14,7 +14,7 @@ permalink: /privacy
 앱은 **어떠한 개인정보도 수집·저장·전송하지 않습니다.**
 
 - 앱에는 인터넷 접근 권한이 없으며, 외부 서버와 통신하지 않습니다.
-- 캐릭터 종류, 색, 크기, 속도, 위치, 픽셀 에디터로 그린 그림 같은 설정 값은 사용자의 휴대폰 안에만 저장되며, 앱을 삭제하면 함께 지워집니다.
+- 캐릭터 종류, 색, 크기, 속도, 위치 같은 설정 값은 사용자의 휴대폰 안에만 저장되며, 앱을 삭제하면 함께 지워집니다.
 - 화면에 표시되는 내용(다른 앱의 화면 등)을 읽거나 저장하지 않습니다.
 - 알림의 내용(제목, 본문, 보낸 사람, 앱 이름)을 읽거나 저장하지 않습니다.
 
@@ -35,7 +35,7 @@ permalink: /privacy
 
 ## 4. 유료 상품(인앱 결제)
 
-유료 팩과 픽셀 에디터 결제는 Google Play 결제 시스템을 통해 처리되며, 결제 정보는 앱이 아닌 Google이 처리합니다. 앱은 구매 여부만 확인합니다.
+유료 팩 결제는 Google Play 결제 시스템을 통해 처리되며, 결제 정보는 앱이 아닌 Google이 처리합니다. 앱은 구매 여부만 확인합니다.
 (Google 개인정보처리방침: https://policies.google.com/privacy)
 
 ## 5. 아동의 개인정보
@@ -60,10 +60,10 @@ Effective: November 6, 2026
 Pico Bar ("the app") shows small pixel pets in the phone's status bar area.
 
 - **The app does not collect, store, or transmit any personal data.** It has no internet permission and never communicates with a server.
-- Settings (characters, colours, size, speed, position, drawings made in the pixel editor) are stored only on the device and are deleted with the app.
+- Settings (characters, colours, size, speed, position) are stored only on the device and are deleted with the app.
 - The app does not read or record screen content or other apps.
 - The app never reads or stores notification content (title, text, sender, app).
 - Permissions: *Display over other apps* (draw the pets), *Foreground service* (keep them visible), *Receive boot completed* (show them again after restart), and optional *Notification access* — used only when the user turns on "React to notifications", and only the fact that a notification arrived is used to play a surprised animation.
 - Charging state, battery level and the current time are checked on the device only to change the pets' behaviour (cheering when charging, tired on low battery, sleepy at night). This information is never stored or transmitted.
-- Paid packs and the pixel editor are purchased through Google Play Billing; payment details are handled by Google, not by the app.
+- Paid packs are purchased through Google Play Billing; payment details are handled by Google, not by the app.
 - Developer: picoseven · Contact: 14qlql14@gmail.com
