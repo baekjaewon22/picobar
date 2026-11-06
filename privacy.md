@@ -13,7 +13,7 @@ permalink: /privacy
 
 앱은 **어떠한 개인정보도 수집·저장·전송하지 않습니다.**
 
-- 앱에는 인터넷 접근 권한이 없으며, 외부 서버와 통신하지 않습니다.
+- 앱은 개발자의 서버를 두지 않으며, 외부 서버로 정보를 보내지 않습니다. (Google Play 버전에는 유료 팩 결제를 위해 Google Play 결제 라이브러리가 사용하는 인터넷 권한이 포함되어 있으며, 이 통신은 Google Play와의 결제 처리에만 쓰입니다.)
 - 캐릭터 종류, 색, 크기, 속도, 위치 같은 설정 값은 사용자의 휴대폰 안에만 저장되며, 앱을 삭제하면 함께 지워집니다.
 - 화면에 표시되는 내용(다른 앱의 화면 등)을 읽거나 저장하지 않습니다.
 - 알림의 내용(제목, 본문, 보낸 사람, 앱 이름)을 읽거나 저장하지 않습니다.
@@ -59,7 +59,7 @@ Effective: November 6, 2026
 
 Pico Bar ("the app") shows small pixel pets in the phone's status bar area.
 
-- **The app does not collect, store, or transmit any personal data.** It has no internet permission and never communicates with a server.
+- **The app does not collect, store, or transmit any personal data.** The developer runs no server and the app sends no information to any server. (The Google Play edition includes the internet permission required by the Google Play Billing Library; it is used only for purchases handled by Google Play.)
 - Settings (characters, colours, size, speed, position) are stored only on the device and are deleted with the app.
 - The app does not read or record screen content or other apps.
 - The app never reads or stores notification content (title, text, sender, app).
