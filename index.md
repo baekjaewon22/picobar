@@ -1,8 +1,8 @@
 ---
-title: 피코바 (Pico Bar)
+title: 픽바 (PICCBAR)
 ---
 
-# 피코바 (Pico Bar)
+# 픽바 (PICCBAR)
 
 상단 상태표시줄에서 픽셀 캐릭터가 산책하는 안드로이드 앱
 

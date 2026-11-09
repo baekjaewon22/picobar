@@ -1,13 +1,13 @@
 ---
-title: 피코바 개인정보처리방침
+title: 픽바 개인정보처리방침
 permalink: /privacy
 ---
 
-# 피코바(Pico Bar) 개인정보처리방침
+# 픽바(PICCBAR) 개인정보처리방침
 
 시행일: 2026년 11월 6일
 
-피코바(이하 "앱")는 휴대폰 상단 상태표시줄에 픽셀 캐릭터를 띄워 주는 꾸미기 앱입니다.
+픽바(이하 "앱")는 휴대폰 상단 상태표시줄에 픽셀 캐릭터를 띄워 주는 꾸미기 앱입니다.
 
 ## 1. 수집하는 개인정보
 
@@ -53,11 +53,11 @@ permalink: /privacy
 
 ---
 
-# Pico Bar Privacy Policy
+# PICCBAR Privacy Policy
 
 Effective: November 6, 2026
 
-Pico Bar ("the app") shows small pixel pets in the phone's status bar area.
+PICCBAR ("the app") shows small pixel pets in the phone's status bar area.
 
 - **The app does not collect, store, or transmit any personal data.** The developer runs no server and the app sends no information to any server. (The Google Play edition includes the internet permission required by the Google Play Billing Library; it is used only for purchases handled by Google Play.)
 - Settings (characters, colours, size, speed, position) are stored only on the device and are deleted with the app.
